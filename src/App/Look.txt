@@ -1,0 +1,4 @@
+﻿Read this 
+
+How to change startup object?
+https://stackoverflow.com/questions/49585823/how-to-set-startup-object-in-console-application-in-c
